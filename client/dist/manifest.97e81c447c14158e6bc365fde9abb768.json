@@ -1,0 +1,17 @@
+{
+  "icons": [
+    {
+      "src": "./assets/icons/icon_32x32.746db68de78df5d3feaeac6b6c757b2a.ico",
+      "sizes": "32x32",
+      "type": "image/vnd.microsoft.icon"
+    }
+  ],
+  "name": "Journal Jar",
+  "short_name": "jj",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Journal every day",
+  "background_color": "#7eb4e2",
+  "theme_color": "#7eb4e2"
+}
